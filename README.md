@@ -1,10 +1,11 @@
 <h1 align="center">
-  Site do filme Mario Bros
+  Site modelo do filme Mario Bros
 </h1>
 
-<p align="center">
-  <img src=".github/preview.png" width="100%" />
-</p>
+  ## LINK: https://mario-bros-movie-page.vercel.app
+
+![Captura de Tela 2024-04-18 às 12 15 04](https://github.com/DanieleDiniz09/mario-bros-movie-page/assets/148472866/e266b99e-dbdb-4c58-b9c3-a4b73bd47fe5)
+
 
 ## 💻 Projeto
 
@@ -26,13 +27,4 @@ Este projeto é um tutorial que ensina a como criar o site do filme **Mario Bros
 - [x] Efeitos com a propriedade `transform` do css
 
 
-## 📝 Tema de casa
 
-- [ ] Criar responsividade
-- [ ] Adicionar efeito de hover nos botões
-
-## 📺 Tutorial no Youtube
-
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
- <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
-</a>
